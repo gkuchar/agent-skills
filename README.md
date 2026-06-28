@@ -1,4 +1,4 @@
-# agent-skills
+# educational-agent-skills
 
 A collection of custom **AI agent skills** for technical learning and interview preparation, built on Anthropic's Claude Skills framework. Each skill encodes a deliberate pedagogical strategy (active recall, Socratic questioning, structured debriefs) into a reusable, interactive agent workflow.
 
